@@ -1,1 +1,1 @@
-# flickr-scrapper
+# flickr-scraper
